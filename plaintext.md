@@ -23,4 +23,4 @@
 
 url : https://manitchaya2004.github.io/manitchayaa/plaintext.html
 
-# 6530250026 นายเกียรติยศ หงษ์กลิ่น
+6530250026 นายเกียรติยศ หงษ์กลิ่น
