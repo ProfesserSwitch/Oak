@@ -21,6 +21,6 @@
 # Sample in Daily life
   - ถ้าส่งอีเมลในรูปแบบข้อความธรรมดา (plaintext) ข้อความจะไม่มีการจัดรูปแบบพิเศษ เช่น ตัวหนา ตัวเอียง หรือสี
 
-url : https://manitchaya2004.github.io/manitchayaa/plaintext.html
+url : [https://manitchaya2004.github.io/manitchayaa/plaintext](https://manitchaya2004.github.io/manitchayaa/plaintext)
 
 6530250026 นายเกียรติยศ หงษ์กลิ่น
