@@ -1,6 +1,6 @@
 # 6530250026 นายเกียรติยศ หงษ์กลิ่น
 # Plaintext
-# CISSP Glossary - Student
+# CISSP Glossary - Student Guide
   - ความหมาย
     - The message in its natural format has not been turned into a secret
   - ChatGPT
